@@ -19,25 +19,19 @@ Whether it's mastering algorithms or designing clean UIs, I’m all about leveli
 
 ---
 
-### 🎯 My Vision
+### 🚀 My Mission: Build, Solve, and Grow
 
-I’m not just here to code — I’m here to **create**, **contribute**, and **grow**. My goals include:
-- 📄 Publishing a research paper in AI or Computer Vision  
-- 🥇 Ranking in coding contests and hackathons  
-- 🌐 Launching real-world apps that solve real-world problems  
-- 🧠 Joining tech-driven communities and advanced research labs
+Hey there! I’m a developer on a mission to **create real-world impact** through code, research, and collaboration.
 
----
+- 🔗 Building full-stack apps with React, Node.js & MongoDB  
+- 🧠 Sharpening my DSA & ML skills for contests and interviews  
+- 📌 Designing productivity tools to help students stay on track  
+- 📄 Working toward publishing research in AI & Computer Vision  
+- 🥇 Competing in hackathons and solving real problems through tech
 
-### 🚀 What I’m Working On
-
-- 🔗 Full Stack Web Projects using React, Node.js, MongoDB  
-- 🧠 Building a structured DSA + ML prep workflow  
-- 📌 Designing productivity tools to help students like me stay on track  
-- 💻 Leveling up consistently on LeetCode, GitHub, and in life
+Let’s connect, collaborate, and grow together! 🌱
 
 ---
-
 
 ### 🧰 Tech Toolkit
 
@@ -48,23 +42,8 @@ I’m not just here to code — I’m here to **create**, **contribute**, and **
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 
 ---
-
-### 🧩 Others Stuff I Enjoy 
-
-When I'm not coding or building, you’ll find me:
-- 🎮 Playing badminton, enjoying fast-paced sports along with some Latest released Video Games  
-- 🎥 Watching anime with powerful storytelling and emotions  
-- ✍️ Writing thoughts, reflections, and creative scripts  
-- 📈 Exploring productivity tools and self-growth systems  
-- 🧠 Having deep late-night conversations about ideas, life, and ambition
-
-These aren't just hobbies — they shape how I think, work, and create.
-
----
-
 
 ### 💬 Let’s Connect
 
