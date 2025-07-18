@@ -19,19 +19,6 @@ Whether it's mastering algorithms or designing clean UIs, I’m all about leveli
 
 ---
 
-### 🧩 Others Stuff I Enjoy 
-
-When I'm not coding or building, you’ll find me:
-- 🎮 Playing badminton, enjoying fast-paced sports along with some Latest released Video Games  
-- 🎥 Watching anime with powerful storytelling and emotions  
-- ✍️ Writing thoughts, reflections, and creative scripts  
-- 📈 Exploring productivity tools and self-growth systems  
-- 🧠 Having deep late-night conversations about ideas, life, and ambition
-
-These aren't just hobbies — they shape how I think, work, and create.
-
----
-
 ### 🎯 My Vision
 
 I’m not just here to code — I’m here to **create**, **contribute**, and **grow**. My goals include:
@@ -41,6 +28,16 @@ I’m not just here to code — I’m here to **create**, **contribute**, and **
 - 🧠 Joining tech-driven communities and advanced research labs
 
 ---
+
+### 🚀 What I’m Working On
+
+- 🔗 Full Stack Web Projects using React, Node.js, MongoDB  
+- 🧠 Building a structured DSA + ML prep workflow  
+- 📌 Designing productivity tools to help students like me stay on track  
+- 💻 Leveling up consistently on LeetCode, GitHub, and in life
+
+---
+
 
 ### 🧰 Tech Toolkit
 
@@ -55,14 +52,19 @@ I’m not just here to code — I’m here to **create**, **contribute**, and **
 
 ---
 
-### 🚀 What I’m Working On
+### 🧩 Others Stuff I Enjoy 
 
-- 🔗 Full Stack Web Projects using React, Node.js, MongoDB  
-- 🧠 Building a structured DSA + ML prep workflow  
-- 📌 Designing productivity tools to help students like me stay on track  
-- 💻 Leveling up consistently on LeetCode, GitHub, and in life
+When I'm not coding or building, you’ll find me:
+- 🎮 Playing badminton, enjoying fast-paced sports along with some Latest released Video Games  
+- 🎥 Watching anime with powerful storytelling and emotions  
+- ✍️ Writing thoughts, reflections, and creative scripts  
+- 📈 Exploring productivity tools and self-growth systems  
+- 🧠 Having deep late-night conversations about ideas, life, and ambition
+
+These aren't just hobbies — they shape how I think, work, and create.
 
 ---
+
 
 ### 💬 Let’s Connect
 
