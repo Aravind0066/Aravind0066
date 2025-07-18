@@ -19,10 +19,10 @@ Whether it's mastering algorithms or designing clean UIs, I’m all about leveli
 
 ---
 
-### 🧩 Things I Enjoy
+### 🧩 Others Stuff I Enjoy 
 
 When I'm not coding or building, you’ll find me:
-- 🎮 Playing badminton and enjoying fast-paced sports  
+- 🎮 Playing badminton, enjoying fast-paced sports along with some Latest released Video Games  
 - 🎥 Watching anime with powerful storytelling and emotions  
 - ✍️ Writing thoughts, reflections, and creative scripts  
 - 📈 Exploring productivity tools and self-growth systems  
@@ -66,11 +66,10 @@ I’m not just here to code — I’m here to **create**, **contribute**, and **
 
 ### 💬 Let’s Connect
 
-If you're into meaningful projects, nerdy tech chats, or late-night idea storms — we’ll get along just fine.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-m-1300a7324/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_agent._.unknown_/)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@thesilentoath)
+📧 **Email**: heyaravind2006@gmail.com
 
 ---
 
