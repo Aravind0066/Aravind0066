@@ -70,7 +70,7 @@ These aren't just hobbies — they shape how I think, work, and create.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-m-1300a7324/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_agent._.unknown_/)
-[![Gmail](https://img.shields.io/badge/-heyaravind2006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heyaravind2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-heyaravind2006@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heyaravind2006@gmail.com)
 
 ---
 
