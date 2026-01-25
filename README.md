@@ -50,4 +50,4 @@ developed end-to-end.
 ---
 
 ## Philosophy
-Consistency beats talent when talent does not show up.
+Consistency beats talent when talent does not show up. Discipline Beats Motivation.
