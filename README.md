@@ -1,4 +1,4 @@
-<img width="1158" height="471" alt="image" src="https://github.com/user-attachments/assets/8061ef71-0213-4581-b906-c9fe46940d91" /># Aravind M
+# Aravind M
 
 ### B.Tech Computer Science & Engineering  
 **VIT Chennai**
