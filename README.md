@@ -6,164 +6,110 @@
 
 B.Tech Computer Science & Engineering @ VIT Chennai
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&center=true&vCenter=true&width=600&lines=Building+systems+that+actually+work.;Backend+%E2%86%92+Cloud+%E2%86%92+Scale;Learning+by+building+and+shipping.;One+commit+at+a+time." alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Building+systems+that+actually+work.;Learning+by+building+and+shipping.;Backend+%E2%86%92+Cloud+%E2%86%92+Scale.;Build.+Break.+Understand.+Repeat." alt="Typing SVG"/>
 
 </div>
 
----
+<br>
 
-<div align="center">
+<h2 align="center">Currently Building</h2>
 
-## About
+<p align="center">
+⚡ <b>Arise</b> — building a complete application end-to-end <br>
+♟️ <b>Real-Time Chess</b> — exploring multiplayer systems & real-time communication <br>
+⚙️ Going deeper into <b>Backend Engineering</b> <br>
+☁️ Learning <b>Cloud Infrastructure & Deployment</b>
+</p>
 
-I build software to understand how systems work beyond the surface.
+<br>
 
-Currently focused on **backend engineering**, APIs, databases, Linux and cloud infrastructure — while strengthening problem-solving through consistent DSA practice.
+<h2 align="center">Tech Stack</h2>
 
-I prefer building things end-to-end, breaking them, debugging them, and understanding **why they work**.
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
----
+<br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-## Currently Building
+<br>
 
-**⚡ Arise**  
-Building and evolving a complete application end-to-end.
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-**♟️ Real-Time Chess Application**  
-Exploring real-time communication, application state and backend integration.
+<br>
 
-**⚙️ Backend Engineering**  
-Going deeper into APIs, authentication, databases, architecture and production practices.
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
-**☁️ Cloud & Infrastructure**  
-Learning AWS, deployment, containers and how applications behave outside localhost.
+</p>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## Systems I Work With
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java&theme=dark" />
-
-### Backend & Web
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,tailwind,vite&theme=dark" />
-
-### Data
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,postman,vscode&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## System Activity
-
-<pre>
-CLIENT
-  │
-  │ request
-  ▼
-┌──────────────┐
-│     API      │
-└──────┬───────┘
-       │
-   ┌───┴────────────┐
-   │                │
-   ▼                ▼
-DATABASE          SERVICES
-   │                │
-   └───────┬────────┘
-           ▼
-       RESPONSE
-
-ARAVIND // SYSTEM ONLINE
-</pre>
-
-`BUILD` ● `DEBUG` ● `LEARN` ● `SHIP`
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Activity
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aravind0066&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind0066&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Flow
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0066&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## What I'm Working Toward
-
-Building backend systems that go beyond basic CRUD:
-
-**Authentication · Caching · Queues · Real-Time Systems · Testing · Docker · CI/CD · AWS · System Design**
-
-<br/>
-
-> Build it. Break it. Understand it. Build it better.
-
-</div>
-
----
-
-<div align="center">
-
-## Connect
-
-<a href="https://github.com/Aravind0066">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add your LinkedIn URL below when ready -->
+<h2 align="center">Contribution Network</h2>
 
 <!--
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+CUSTOM CONTRIBUTION ANIMATION
+
+Eventually:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aravind0066/Aravind0066/output/dist/network.svg" width="100%"/>
+</p>
 -->
 
-</div>
+<p align="center">
+<sub>
+Every light tells a story · activity drives the network · updated daily
+</sub>
+</p>
 
-<br/>
+<br>
 
-<div align="center">
+<p align="center">
 
-<sub>Currently building. Always learning.</sub>
+<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"/>
 
-</div>
+</p>
+
+<br>
+
+<h2 align="center">Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0066&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+<br>
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+
+<a href="https://github.com/Aravind0066">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+<em>Build. Break. Understand. Repeat.</em>
+</p>
