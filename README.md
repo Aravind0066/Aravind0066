@@ -2,13 +2,13 @@
 
 # Aravind M
 
-### Backend Developer · Systems · Cloud
+### Backend Developer • Systems • Cloud
 
 B.Tech Computer Science & Engineering @ VIT Chennai
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Building+systems+that+actually+work.;Learning+by+building+and+shipping.;Backend+%E2%86%92+Cloud+%E2%86%92+Scale.;Build.+Break.+Understand.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+systems+that+actually+work.;Learning+by+building+and+shipping.;Backend+%E2%86%92+Cloud+%E2%86%92+Scale.;Build.+Break.+Understand.+Repeat." alt="Typing SVG"/>
 
 </div>
 
@@ -19,7 +19,7 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 <p align="center">
 ⚡ <b>Arise</b> — building a complete application end-to-end <br>
 ♟️ <b>Real-Time Chess</b> — exploring multiplayer systems & real-time communication <br>
-⚙️ Going deeper into <b>Backend Engineering</b> <br>
+⚙️ Deepening my understanding of <b>Backend Engineering</b> <br>
 ☁️ Learning <b>Cloud Infrastructure & Deployment</b>
 </p>
 
@@ -33,49 +33,37 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 
 <br>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind0066&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind0066&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<br>
-
 <h2 align="center">Contribution Network</h2>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Aravind0066/Aravind0066/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Aravind0066/Aravind0066/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </p>
-
-<br>
-
-<h2 align="center">Activity</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0066&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<br>
 
 <p align="center">
 <sub>
-Every light tells a story · activity drives the network · updated daily
+Every contribution strengthens the network • Updated automatically
 </sub>
 </p>
 
 <br>
 
+<h2 align="center">GitHub Streak</h2>
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</p>
+
+<br>
+
+<h2 align="center">Activity Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0066&theme=github-dark&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </p>
 
@@ -98,5 +86,5 @@ Every light tells a story · activity drives the network · updated daily
 <br>
 
 <p align="center">
-<em>Build. Break. Understand. Repeat.</em>
+<i>Build. Break. Understand. Repeat.</i>
 </p>
