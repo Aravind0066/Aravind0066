@@ -8,7 +8,7 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+systems+that+actually+work.;Learning+by+building+and+shipping.;Backend+→+Cloud+→+Scale.;Build.+Break.+Understand.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+systems+that+actually+work.;Learning+by+building+and+shipping.;Backend+%E2%86%92+Cloud+%E2%86%92+Scale.;Build.+Break.+Understand.+Repeat." alt="Typing SVG"/>
 
 </div>
 
@@ -27,28 +27,8 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 
 <h2 align="center">Tech Stack</h2>
 
-<h4 align="center">Languages</h4>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python"/>
-</p>
-
-<h4 align="center">Backend & Frontend</h4>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,html,css"/>
-</p>
-
-<h4 align="center">Databases & Cloud</h4>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,aws"/>
-</p>
-
-<h4 align="center">Tools</h4>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,figma,npm"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,nodejs,express,react,vite,html,css,mysql,mongodb,git,github,linux,docker,aws,postman,figma,vscode,bash,npm&perline=11"/>
 </p>
 
 <br>
@@ -56,7 +36,9 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 <h2 align="center">Contribution Network</h2>
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Aravind0066/Aravind0066/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
 </p>
 
 <br>
@@ -64,54 +46,10 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Aravind0066&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
 </p>
-
-<br>
-
-<h2 align="center">Featured Projects</h2>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Arise
-
-Complete full-stack application built from the ground up with scalability and clean architecture in mind.
-
-</td>
-
-<td width="50%" valign="top">
-
-### ♟️ Real-Time Chess
-
-Real-time multiplayer chess powered by WebSockets & Socket.IO.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏫 Campus Intelligence System
-
-Backend platform for campus resources, student queries, feeds and automation.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💪 Smart Gym Management
-
-RESTful API with Express, MongoDB and Mongoose following modern backend practices.
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
