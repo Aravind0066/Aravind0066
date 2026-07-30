@@ -28,29 +28,18 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,nodejs,express,react,vite,html,css,mysql,mongodb,git,github,linux,docker,aws,postman,figma,vscode,bash,npm&perline=11"/>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<h2 align="center">GitHub Stats</h2>
 
-<br>
+<p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aravind0066&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind0066&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -58,15 +47,23 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 
 <h2 align="center">Contribution Network</h2>
 
-<!--
-CUSTOM CONTRIBUTION ANIMATION
+<p align="center">
 
-Eventually:
+<img src="https://raw.githubusercontent.com/Aravind0066/Aravind0066/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<br>
+
+<h2 align="center">Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aravind0066/Aravind0066/output/dist/network.svg" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0066&theme=github-dark&hide_border=true"/>
+
 </p>
--->
+
+<br>
 
 <p align="center">
 <sub>
@@ -78,17 +75,7 @@ Every light tells a story · activity drives the network · updated daily
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"/>
-
-</p>
-
-<br>
-
-<h2 align="center">Activity</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aravind0066&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
