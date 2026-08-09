@@ -43,16 +43,6 @@ B.Tech Computer Science & Engineering @ VIT Chennai
 
 <br>
 
-<h2 align="center">GitHub Streak</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aravind0066&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</p>
-
-<br>
-
 <h2 align="center">Connect</h2>
 
 <p align="center">
